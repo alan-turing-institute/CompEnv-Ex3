@@ -1,4 +1,4 @@
-# Computational Environment Example 2
+# Computational Environment Example 3
 
 ## Orienting you to the GitHub repository
 
