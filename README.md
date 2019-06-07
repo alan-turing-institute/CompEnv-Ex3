@@ -18,6 +18,13 @@ There's an **identical** jupyter notebook in all three branches.
 * `chap03.ipynb` in `branch-a` : https://github.com/alan-turing-institute/CompEnv-Ex3/blob/branch-a/chap03.ipynb
 * `chap03.ipynb` in `branch-b` : https://github.com/alan-turing-institute/CompEnv-Ex3/blob/branch-b/chap03.ipynb
 
+There's an **identical** runtime file in two of the branches.
+This pins the version of Python installed to 3.6.
+
+* `master` does not have a runtime file
+* `branch-a` has a runtime file : https://github.com/alan-turing-institute/CompEnv-Ex3/blob/branch-a/runtime.txt
+* `branch-b` has a runtime file : https://github.com/alan-turing-institute/CompEnv-Ex3/blob/branch-b/runtime.txt
+
 Two of the branches have requirements files.
 
 * `master` does not have a requirements file.
