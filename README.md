@@ -9,7 +9,7 @@
 There are three branches in this repository.
 
 * `master` : https://github.com/alan-turing-institute/CompEnv-Ex3/tree/master
-* `branch-a` : https://github.com/alan-turing-institute/CompEnv-Ex3/tree/branch-1 
+* `branch-a` : https://github.com/alan-turing-institute/CompEnv-Ex3/tree/branch-a 
 * `branch-b` : https://github.com/alan-turing-institute/CompEnv-Ex3/tree/branch-b
 
 There's an **identical** jupyter notebook in all three branches.
