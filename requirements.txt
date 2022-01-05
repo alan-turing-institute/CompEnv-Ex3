@@ -2,4 +2,4 @@ numpy
 pandas>=0.19
 matplotlib>=2.0.2
 scikit-learn==0.19.1
-mlxtend<0.16.0
+mlxtend<0.15.0
